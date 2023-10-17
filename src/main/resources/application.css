@@ -1,0 +1,13 @@
+#sidePane {
+    -fx-background-color: -color-neutral-subtle;
+}
+.centerPane {
+    -fx-border-color: -color-accent-emphasis;
+}
+.topBar {
+    -fx-background-color: -color-neutral-subtle;
+}
+.doughnut {
+    -fx-fill: #323440;
+    -fx-stroke-color: #323440;
+}
